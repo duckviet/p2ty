@@ -1,0 +1,29 @@
+[
+    {   
+
+        "name":"Chạm chạm",
+        "singer":"Cao Minh x Baki",
+        "path": "./asset/LISTNHAC/chamcham.mp3",
+        "image":"./asset/LISTANH/chamcham.png",
+        "backgroundcolor": "#c85f48",
+        "lyric": "/lyric.lrc"
+    },
+    {   
+
+        "name":"Chỉ mình anh nhìn thấy",
+        "singer":"Thái Đinh",
+        "path": "./asset/LISTNHAC/chiminhanhnhinthay.mp3",
+        "image":"./asset/LISTANH/chiminhanhnhinthay.png",
+        "backgroundcolor": "#2a343a",
+        "lyric": "/lyric.lrc"
+    },
+    {   
+
+        "name":"Đoạn kết mới",
+        "singer":"Hoàng Dũng",
+        "path": "./asset/LISTNHAC/doanketmoi.mp3",
+        "image":"./asset/LISTANH/doanketmoi.png",
+        "backgroundcolor": "#8dc2d5",
+        "lyric": "/lyric.lrc"
+    }   
+]
